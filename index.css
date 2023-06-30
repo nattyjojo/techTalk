@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(232, 243, 255);
+    color: rgb(40, 40, 40);
+    padding: 40px;
+    text-align: center;
+
+}
+.title{
+    font-weight: 900;
+
+}
+.content{
+    font-size: 30px;
+    line-height: 50px;
+}
+.btnContainer{
+    margin-top: 100px;
+}
+
+.btnNext{
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 2px solid gray;
+    color: white;
+    background-color: orange;
+    
+}
